@@ -1,3 +1,3 @@
 Hello World
 Tweede lijn
-Derde lijn maar anders
+Derde lijn
